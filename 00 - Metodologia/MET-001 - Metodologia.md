@@ -1,5 +1,3 @@
-# Metodologia
-
 ## 1. Objetivo
 
 O Projeto Victor é um sistema de gestão do aprendizado criado para planejar, organizar, executar, documentar e acompanhar a evolução contínua de conhecimentos, habilidades e competências.
