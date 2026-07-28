@@ -1,3 +1,10 @@
+
+| Campo          | Valor                        |
+| -------------- | ---------------------------- |
+| Documento      | MET-004 - Padrões de Commits |
+| Versão         | 1.0                          |
+| Status         | Aprovado                     |
+| Ultima revisão | 20/07/2026                   |
 ## Objetivo
 
 Este documento define o padrão de mensagens de commit utilizado no projeto.

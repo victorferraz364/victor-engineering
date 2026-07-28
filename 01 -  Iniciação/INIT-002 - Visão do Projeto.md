@@ -1,3 +1,11 @@
+
+| Campo          | Valor                       |
+| -------------- | --------------------------- |
+| Documento      | INIT-002 - Visão do projeto |
+| Versão         | 2.0                         |
+| Status         | Aprovado                    |
+| Ultima revisão | 28/07/2026                  |
+
 ## Visão Geral
 
 O Projeto Victor é um framework de desenvolvimento contínuo concebido para apoiar a evolução de conhecimentos, habilidades, competências e demais objetivos de desenvolvimento por meio de uma abordagem estruturada, prática e orientada por projetos.

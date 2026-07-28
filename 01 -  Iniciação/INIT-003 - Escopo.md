@@ -1,3 +1,10 @@
+
+| Campo          | Valor             |
+| -------------- | ----------------- |
+| Documento      | INIT-003 - Escopo |
+| Versão         | 2.0               |
+| Status         | Aprovado          |
+| Ultima revisão | 28/07/2026        |
 ## Objetivo
 
 Este documento define o escopo do Projeto Victor, estabelecendo claramente quais elementos fazem parte do projeto e quais estão fora de sua responsabilidade.

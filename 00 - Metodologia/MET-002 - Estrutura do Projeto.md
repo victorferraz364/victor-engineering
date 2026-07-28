@@ -1,4 +1,13 @@
 
+| Campo          | Valor                          |
+| -------------- | ------------------------------ |
+| Documento      | MET-002 - Estrutura do Projeto |
+| Versão         | 2.0                            |
+| Status         | Aprovado                       |
+| Ultima revisão | 28/07/2026                     |
+
+
+
 ## 1. Objetivo 
 
 Este documento descreve a organização estrutural do Projeto Victor e a responsabilidade de cada uma de suas categorias.

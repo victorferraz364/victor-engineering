@@ -1,4 +1,11 @@
 
+| Campo          | Valor                |
+| -------------- | -------------------- |
+| Documento      | MET-003 - Convenções |
+| Versão         | 2.0                  |
+| Status         | Aprovado             |
+| Ultima revisão | 28/07/2026           |
+
 ## Objetivo
 
 Este documento define os padrões de nomenclatura, organização e escrita utilizados no projeto.

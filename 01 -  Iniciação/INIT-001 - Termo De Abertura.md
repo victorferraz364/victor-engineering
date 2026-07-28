@@ -1,13 +1,10 @@
-## Informações Gerais
 
-| Projeto        | Projeto Victor                      |
-| -------------- | ----------------------------------- |
-| Tipo           | Projeto Contínuo de Desenvolvimento |
-| Data de Início | _20/07/2026_                        |
-| Status         | Em andamento                        |
-| Responsável    | Victor Angelo Ferraz de Oliveira    |
-
----
+| Campo          | Valor                        |
+| -------------- | ---------------------------- |
+| Documento      | INIT-001 - Termo de Abertura |
+| Versão         | 2.0                          |
+| Status         | Aprovado                     |
+| Ultima revisão | 28/07/2026                   |
 
 # 1. Contexto
 

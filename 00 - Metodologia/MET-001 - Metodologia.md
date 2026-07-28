@@ -1,3 +1,11 @@
+
+| Campo          | Valor                 |
+| -------------- | --------------------- |
+| Documento      | MET-001 - Metodologia |
+| Versão         | 2.0                   |
+| Status         | Aprovado              |
+| Ultima revisão | 28/07/2026            |
+
 ## 1. Objetivo
 
 O Projeto Victor é um framework de desenvolvimento contínuo criado para planejar, organizar, executar, documentar e acompanhar a evolução de conhecimentos, habilidades, competências e demais objetivos de desenvolvimento.
