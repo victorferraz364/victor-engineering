@@ -1,14 +1,14 @@
 ## 1. Objetivo
 
-O Projeto Victor é um sistema de gestão do aprendizado criado para planejar, organizar, executar, documentar e acompanhar a evolução contínua de conhecimentos, habilidades e competências.
+O Projeto Victor é um framework de desenvolvimento contínuo criado para planejar, organizar, executar, documentar e acompanhar a evolução de conhecimentos, habilidades, competências e demais objetivos de desenvolvimento.
 
-Seu propósito é transformar o processo de aprendizagem em um processo estruturado, utilizando princípios inspirados em Engenharia de Software, Análise de Sistemas, Engenharia de Soluções e Gerenciamento de Projetos.
+Seu propósito é transformar o processo de desenvolvimento em um sistema estruturado, utilizando princípios inspirados em Engenharia de Software, Análise de Sistemas, Engenharia de Soluções e Gerenciamento de Projetos.
 
 Neste contexto, o principal produto do projeto é o próprio Victor, que evolui continuamente por meio da aquisição e aplicação de novos conhecimentos.
 
-Cada necessidade de aprendizado pode originar Objetivos de Aprendizado, que por sua vez podem gerar projetos, laboratórios, estudos, conteúdos e outros artefatos responsáveis por transformar conhecimento em experiência prática e evidências concretas.
+Cada Objetivo de Desenvolvimento pode originar projetos, laboratórios, estudos, conteúdos e outros artefatos responsáveis por promover a evolução do produto.
 
-O Projeto Victor não substitui os projetos desenvolvidos ao longo da jornada. Ele atua como um sistema central de planejamento e acompanhamento, registrando como cada projeto, laboratório e artefato contribui para a evolução do produto.
+O Projeto Victor não substitui os projetos desenvolvidos ao longo da jornada. Ele atua como um sistema central de planejamento e acompanhamento, registrando como cada projeto, laboratório e artefato contribui para a evolução contínua do produto.
 
 ---
 
@@ -16,13 +16,13 @@ O Projeto Victor não substitui os projetos desenvolvidos ao longo da jornada. E
 
 O Projeto Victor é guiado pelos seguintes princípios.
 
-## Aprendizagem orientada por projetos
+## Desenvolvimento orientado por projetos
 
-Sempre que possível, novos conhecimentos serão adquiridos através de projetos aplicados, simulando situações próximas da realidade.
+Sempre que possível, o desenvolvimento deverá ocorrer por meio de projetos, práticas ou outras experiências aplicadas, aproximando o aprendizado de situações reais.
 
-## Aprendizagem baseada em objetivos
+## Desenvolvimento orientado por objetivos
 
-Todo estudo deve existir para atender um objetivo de aprendizado previamente definido.
+Toda atividade deve existir para atender um objetivo de aprendizado previamente definido.
 
 ## Prática antes da teoria infinita
 
@@ -30,15 +30,21 @@ O foco não é consumir conteúdo indefinidamente, mas transformar conhecimento 
 
 ## Documentação como ferramenta
 
-A documentação existe para organizar o conhecimento, registrar decisões e facilitar revisões futuras. Em processos ágeis ela normalmente é mais enxuta, porém para os projetos ela pode ser extensa para desenvolver melhor as habilidades e guiar melhor o processo.
+A documentação existe para organizar o processo de desenvolvimento, registrar decisões, preservar conhecimento e facilitar futuras revisões.
+
+Além de registrar a evolução do projeto, ela atua como um mecanismo de alinhamento, ajudando a manter o foco nos objetivos definidos e reduzindo mudanças constantes de direção.
+
+Novas ideias devem ser registradas e avaliadas, mas incorporadas de forma planejada, preservando a continuidade do desenvolvimento.
 
 ## Evolução contínua
 
-O projeto é contínuo e incremental. Novos objetivos serão adicionados conforme novas necessidades surgirem,
+O desenvolvimento ocorre de forma contínua e incremental.
+
+Novos Objetivos de Desenvolvimento poderão ser incorporados conforme novas necessidades, interesses ou oportunidades surgirem.
 
 ## Reutilização
 
-Sempre que possível, projetos, laboratórios, conteúdos e materiais produzidos poderão atender mais de um objetivo de aprendizado.
+Sempre que possível, projetos, laboratórios, conteúdos e materiais produzidos poderão atender mais de um objetivo de desenvolvimento.
 
 ---
 
@@ -46,7 +52,7 @@ Sempre que possível, projetos, laboratórios, conteúdos e materiais produzidos
 
 O projeto é organizado em entidades independentes que se relacionam entre si.
 
-- Objetivos de Aprendizado
+- Objetivos de evolução
 
 - Projetos
 
@@ -64,24 +70,22 @@ Cada entidade possui responsabilidade própria e pode ser utilizada por diversas
 
 # 4. Fluxo de Trabalho
 
-Todo ciclo de aprendizado segue, preferencialmente, o seguinte fluxo:
+Cada Objetivo de Desenvolvimento evolui de forma incremental.
 
-1. Identificar uma necessidade ou oportunidade de aprendizado.
+O desenvolvimento não segue um fluxo rígido ou linear.
 
-2. Definir um Objetivo de Aprendizado.
+Dependendo da natureza do objetivo, estudos, projetos, laboratórios, produção de conteúdo e demais atividades podem ocorrer em paralelo, ser revisitados ou repetidos sempre que necessário.
 
-3. Planejar como esse objetivo será alcançado.
+De forma geral, um objetivo pode envolver atividades como:
 
-4. Executar estudos, laboratórios e projetos.
+1. Definir um Objetivo de Desenvolvimento.
+2. Planejar sua evolução.
+3. Executar projetos, estudos, práticas ou laboratórios.
+4. Produzir evidências da evolução realizada.
+5. Avaliar os resultados obtidos.
+6. Atualizar o planejamento sempre que necessário.
 
-5. Produzir artefatos que comprovem o aprendizado.
-
-6. Avaliar os resultados e atualizar o objetivo.
-
-7. Repetir o ciclo sempre que surgirem novos objetivos.
-
-
-Esse fluxo não é rígido. Dependendo da natureza do objetivo, algumas etapas podem ser simplificadas ou adaptadas.
+Essas etapas representam uma referência e não uma sequência obrigatória..
 
 ---
 
@@ -134,7 +138,7 @@ Durante o desenvolvimento poderão ser produzidos diferentes tipos de artefatos,
 - Protótipos
 
 
-Todos eles representam evidências do processo de aprendizagem.
+Todos eles representam evidências do desenvolvimento realizado e da evolução do produto.
 
 ---
 
@@ -143,22 +147,12 @@ Todos eles representam evidências do processo de aprendizagem.
 Os conhecimentos utilizados neste projeto poderão ser provenientes de diferentes fontes, incluindo:
 
 - Livros
-
 - Cursos
-
 - Documentação oficial
-
 - Artigos técnicos
-
 - Pesquisas
-
 - Experiências práticas
-
 - Projetos desenvolvidos
-
-- Laboratórios
-  
-- Laboratórios
 
 
 Os resumos e anotações detalhadas dessas fontes são mantidos no Segundo Cérebro (Obsidian), enquanto o Projeto Victor registra apenas sua utilização e aplicação prática.
@@ -169,7 +163,7 @@ Os resumos e anotações detalhadas dessas fontes são mantidos no Segundo Cére
 
 Este projeto não segue integralmente uma metodologia específica.
 
-Sua organização é inspirada em práticas consolidadas de diferentes áreas, adaptadas ao contexto de desenvolvimento contínuo de competências.
+Sua organização é inspirada em práticas consolidadas de diferentes áreas, adaptadas ao contexto de desenvolvimento contínuo de conhecimentos, habilidades e competências.
 
 Entre as principais referências utilizadas estão:
 
@@ -198,4 +192,4 @@ A metodologia do Projeto Victor é um documento vivo.
 
 Novas práticas, melhorias, padrões e processos poderão ser incorporados conforme o projeto evoluir e novas necessidades forem identificadas.
 
-Toda alteração relevante deverá buscar manter os princípios definidos neste documento, preservando a simplicidade, a organização e o foco na aprendizagem aplicada.
+Toda alteração relevante deverá buscar manter os princípios definidos neste documento, preservando a simplicidade, a organização e o foco no desenvolvimento contínuo do produto.

@@ -20,79 +20,60 @@ O Projeto Victor contempla:
 
 ## Gestão do Aprendizado
 
-- Definição de Objetivos de Aprendizado.
-    
+- Definição de Objetivos de evolução.
+
 - Planejamento do desenvolvimento de competências.
-    
+
 - Acompanhamento da evolução dos objetivos.
-    
+
 
 ---
 
 ## Projetos
 
 - Planejamento de projetos aplicados.
-    
 - Relacionamento entre projetos e objetivos.
-    
 - Registro da evolução dos projetos.
-    
+
 
 ---
 
 ## Labs
 
 - Planejamento e documentação de laboratórios.
-    
 - Registro de experimentos.
-    
 - Validação prática de tecnologias, métodos ou habilidades.
-    
+
 
 ---
 
 ## Conteúdo
 
 - Produção de vídeos.
-    
 - Produção de artigos.
-    
 - Apresentações.
-    
 - Roteiros.
-    
 - Demais conteúdos gerados como evidência do aprendizado.
-    
 
 ---
 
 ## Recursos
 
 - Registro de livros utilizados.
-    
 - Registro de cursos.
-    
 - Documentações oficiais.
-    
 - Ferramentas.
-    
 - Materiais de apoio.
-    
 
 ---
 
 ## Documentação
 
 - Metodologia.
-    
 - Padrões.
-    
 - Decisões.
-    
 - Estrutura do projeto.
-    
 - Relacionamentos entre artefatos.
-    
 
 ---
 
@@ -103,18 +84,12 @@ O Projeto Victor **não** tem como objetivo substituir outras ferramentas ou sis
 Ficam fora do escopo:
 
 - Segundo Cérebro (Obsidian) como repositório principal de conhecimento e anotações detalhadas.
-    
 - Gestão financeira.
-    
 - Agenda pessoal.
-    
 - Calendário.
-    
 - Controle operacional de tarefas do dia a dia.
-    
 - Arquivos-fonte dos projetos desenvolvidos (cada projeto possui seu próprio repositório e documentação específica).
-    
-- Dados pessoais sem relação com os objetivos do projeto.
+- Dados pessoais sem relação com os objetivs do projeto.
     
 
 ---
@@ -126,19 +101,12 @@ O Projeto Victor atua como um sistema de coordenação e documentação do desen
 Ele registra:
 
 - por que determinado objetivo existe;
-    
 - como ele será desenvolvido;
-    
 - quais projetos o atendem;
-    
 - quais laboratórios foram realizados;
-    
 - quais recursos foram utilizados;
-    
 - quais conteúdos foram produzidos;
-    
 - quais evidências demonstram sua evolução.
-    
 
 O detalhamento técnico de cada projeto, laboratório ou estudo pertence aos respectivos artefatos ou repositórios.
 
@@ -148,16 +116,11 @@ O detalhamento técnico de cada projeto, laboratório ou estudo pertence aos res
 
 Um novo artefato deve ser incorporado ao Projeto Victor quando atender a pelo menos um dos seguintes critérios:
 
-- contribuir para um Objetivo de Aprendizado;
-    
+- contribuir para um objetivo de evolução;
 - representar uma aplicação prática do conhecimento;
-    
 - registrar uma decisão relevante;
-    
 - servir como evidência de uma competência desenvolvida;
-    
 - apoiar diretamente o desenvolvimento do produto.
-    
 
 ---
 
@@ -165,16 +128,11 @@ Um novo artefato deve ser incorporado ao Projeto Victor quando atender a pelo me
 
 Não devem ser incorporados ao Projeto Victor artefatos que:
 
-- não possuam relação com os Objetivos de Aprendizado;
-    
+- não possuam relação com os objetivos;
 - representem apenas informações temporárias ou operacionais;
-    
 - pertençam ao gerenciamento diário de tarefas;
-    
 - dupliquem informações já registradas em outros sistemas;
-    
 - não agreguem valor ao processo de desenvolvimento do produto.
-    
 
 ---
 
