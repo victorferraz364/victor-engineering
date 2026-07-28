@@ -1,10 +1,13 @@
 
-| Campo          | Valor                |
-| -------------- | -------------------- |
-| Documento      | MET-003 - Convenções |
-| Versão         | 2.0                  |
-| Status         | Aprovado             |
-| Ultima revisão | 28/07/2026           |
+
+| Documento      | MET-003 - Convenções                               |
+| -------------- | -------------------------------------------------- |
+| Versão         | 2.0                                                |
+| Status         | Aprovado                                           |
+| Ultima revisão | 28/07/2026                                         |
+| Data de Início | Data de criação do projeto.                        |
+| Última Revisão | Data da última revisão significativa do documento. |
+
 
 ## Objetivo
 
@@ -183,7 +186,42 @@ O projeto adota os seguintes princípios de organização:
 - Utilizar identificadores únicos para facilitar a rastreabilidade.
 
 ---
+# Controle de Documentos
 
+Todos os documentos do Projeto Victor devem iniciar com uma tabela de identificação, permitindo controlar informações básicas do projeto e do próprio documento.
+
+O padrão adotado é:
+
+| Campo          | Valor                                                                                     |
+| -------------- | ----------------------------------------------------------------------------------------- |
+| Documento      | Nome do documente.                                                                        |
+| Versão         | Versão do documento.                                                                      |
+| Ultima revisão | Data da revisão.                                                                          |
+| Status         | Situação atual do documento (Em elaboração, Em revisão, Aprovado, Obsoleto ou Arquivado). |
+| Data de Início | Data de criação do projeto.                                                               |
+| Última Revisão | Data da última revisão significativa do documento.                                        |
+
+Exemplo:
+
+| Campo          | Valor                                 |
+| -------------- | ------------------------------------- |
+| Projeto        | Projeto Victor                        |
+| Documento      | MET-001 - Metodologia                 |
+| Tipo           | Framework de Desenvolvimento Contínuo |
+| Versão         | 2.0                                   |
+| Status         | Aprovado                              |
+| Responsável    | Victor Angelo Ferraz de Oliveira      |
+| Data de Início | 20/07/2026                            |
+| Última Revisão | 28/07/2026                            |
+
+### Versões
+
+| Versão | Uso                                                        |
+| ------ | ---------------------------------------------------------- |
+| 1.0    | Primeira versão estável do documento.                      |
+| 1.x    | Correções, ajustes e pequenas melhorias.                   |
+| 2.0    | Mudanças estruturais ou revisão significativa do conteúdo. |
+| n.0    | Novas revisões estruturais.                                |
 ## Alterações
 
 Este documento poderá ser atualizado sempre que novas convenções forem necessárias.
