@@ -1,31 +1,25 @@
 # Projeto Victor
 
-> Um sistema de desenvolvimento pessoal inspirado em Engenharia de Software, Análise de Sistemas e Gerenciamento de Projetos.
+> Um framework de desenvolvimento pessoal inspirado em Engenharia de Software, Análise de Sistemas e Gerenciamento de Projetos.
 
 ## Sobre
 
-O Projeto Victor é um projeto contínuo de desenvolvimento de conhecimentos, habilidades e competências por meio de projetos práticos.
+O Projeto Victor é um framework de desenvolvimento contínuo criado para planejar, executar, documentar e acompanhar a evolução de conhecimentos, habilidades, competências e demais objetivos de desenvolvimento por meio de projetos práticos.
 
-Seu principal objetivo é transformar o processo de aprendizagem em um sistema organizado, documentado e orientado à prática, utilizando conceitos normalmente aplicados ao desenvolvimento de software para estruturar a evolução profissional.
+Seu principal objetivo é transformar o processo de aprendizado e desenvolvimento em um sistema organizado, documentado e orientado à prática, utilizando conceitos normalmente aplicados ao desenvolvimento de software para estruturar a evolução profissional.
 
-Diferentemente de um repositório de estudos tradicional, este projeto não armazena apenas anotações ou exercícios. Ele registra todo o ciclo de desenvolvimento de uma competência, desde sua identificação até sua aplicação prática e documentação.
+Diferentemente de um repositório tradicional, este projeto não se limita ao armazenamento de anotações ou materiais de estudo. Ele organiza todo o processo de desenvolvimento, desde a definição de objetivos até sua execução, documentação e evolução contínua.
 
 ## Objetivos
 
-- Planejar objetivos de aprendizado.
-    
-- Organizar estudos e laboratórios.
-    
-- Desenvolver projetos aplicados.
-    
-- Produzir conteúdo técnico.
-    
-- Documentar decisões e aprendizados.
-    
-- Construir um portfólio técnico consistente.
-    
-- Manter um histórico da evolução do conhecimento.
-    
+- Planejar e organizar objetivos de desenvolvimento.
+- Estruturar o processo de evolução contínua por meio de projetos e práticas.
+- Transformar conhecimento em aplicação prática e resultados concretos.
+- Desenvolver conhecimentos, habilidades e competências em diferentes áreas.
+- Produzir e organizar evidências da evolução do produto.
+- Documentar decisões, experiências e aprendizados relevantes.
+- Construir um portfólio consistente por meio de projetos, conteúdos e demais artefatos.
+- Manter um histórico estruturado da evolução contínua do produto.
 
 ## Estrutura
 
@@ -42,56 +36,55 @@ Diferentemente de um repositório de estudos tradicional, este projeto não arma
 ## Fluxo de Trabalho
 
 ```text
-Objetivo de Aprendizado
-        ↓
+Objetivo de Desenvolvimento
+        │
+        ▼
 Planejamento
-        ↓
-Estudos
-        ↓
-Labs
-        ↓
-Projetos
-        ↓
-Conteúdo
-        ↓
+        │
+        ▼
+Execução
+   ├── Estudos
+   ├── Projetos
+   ├── Labs
+   ├── Conteúdo
+   └── Outras práticas
+        │
+        ▼
 Evidências
-        ↓
-Aprendizado
+        │
+        ▼
+Evolução do Produto
 ```
 
-## Tecnologias e Áreas
 
-Este repositório poderá envolver, entre outros temas:
+omínios de Aplicação
+
+O Projeto Victor pode ser utilizado para organizar objetivos de desenvolvimento em diferentes áreas, como:
 
 - Engenharia de Software
-    
 - Análise de Sistemas
-    
 - Arquitetura de Soluções
-    
 - Infraestrutura
-    
 - Redes
-    
 - DevOps
-    
 - Cloud
-    
 - Desenvolvimento Back-end
-    
 - Desenvolvimento Front-end
-    
 - Banco de Dados
-    
 - Segurança da Informação
-    
+- Comunicação
+- Idiomas
+- Calistenia
+- Outros domínios de desenvolvimento contínuo
 
 ## Filosofia
 
 O conhecimento é desenvolvido por meio da prática.
 
-Sempre que possível, um novo aprendizado deve resultar em um laboratório, um projeto, uma documentação técnica, um vídeo, um artigo ou outra evidência concreta.
+Sempre que possível, um objetivo de desenvolvimento deve resultar em projetos, práticas ou outros artefatos capazes de produzir evidências concretas da evolução realizada.
+
+Projetos, laboratórios, conteúdos e demais artefatos não representam o objetivo final do Projeto Victor, mas sim os instrumentos utilizados para promover a evolução contínua do seu principal produto.
 
 ## Status
 
-🚧 Projeto em desenvolvimento contínuo.
+🚧 Framework em desenvolvimento contínuo.
