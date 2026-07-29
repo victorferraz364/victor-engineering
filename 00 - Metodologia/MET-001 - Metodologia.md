@@ -3,15 +3,17 @@
 | -------------- | --------------------- |
 | Versão         | 2.0                   |
 | Status         | Aprovado              |
-| Ultima revisão | 28/07/2026            |
+| Ultima revisão | 29/07/2026            |
 
 ## 1. Objetivo
 
-O Projeto Victor é um framework de desenvolvimento contínuo criado para planejar, organizar, executar, documentar e acompanhar a evolução de conhecimentos, habilidades, competências e demais objetivos de desenvolvimento.
+O Projeto Victor é um framework de desenvolvimento contínuo criado para planejar, organizar, executar, documentar e acompanhar a evolução do seu principal produto por meio da realização de Objetivos de Desenvolvimento.
+
+Cada Objetivo representa uma transformação específica do produto, contribuindo para sua evolução contínua.
 
 Seu propósito é transformar o processo de desenvolvimento em um sistema estruturado, utilizando princípios inspirados em Engenharia de Software, Análise de Sistemas, Engenharia de Soluções e Gerenciamento de Projetos.
 
-Neste contexto, o principal produto do projeto é o próprio Victor, que evolui continuamente por meio da aquisição e aplicação de novos conhecimentos.
+Neste contexto, o principal produto do projeto é o próprio Victor, que evolui continuamente por meio da aquisição e aplicação de novos conhecimentos e competências.
 
 Cada Objetivo de Desenvolvimento pode originar projetos, laboratórios, estudos, conteúdos e outros artefatos responsáveis por promover a evolução do produto.
 
@@ -29,8 +31,11 @@ Sempre que possível, o desenvolvimento deverá ocorrer por meio de projetos, pr
 
 ## Desenvolvimento orientado por objetivos
 
-Toda atividade deve existir para atender um objetivo de aprendizado previamente definido.
+Um Objetivo de Desenvolvimento representa uma transformação desejada no produto.
 
+Ele descreve a passagem de um estado atual para um estado desejado, possuindo critérios de sucesso, evidências e condições que permitem verificar sua conclusão.
+
+Embora o desenvolvimento do produto seja contínuo, cada Objetivo possui início, execução e encerramento.
 ## Prática antes da teoria infinita
 
 O foco não é consumir conteúdo indefinidamente, mas transformar conhecimento em aplicação prática.

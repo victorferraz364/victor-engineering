@@ -4,9 +4,9 @@
 
 ## Sobre
 
-O Projeto Victor é um framework de desenvolvimento contínuo criado para planejar, executar, documentar e acompanhar a evolução de conhecimentos, habilidades, competências e demais objetivos de desenvolvimento por meio de projetos práticos.
+O Projeto Victor é um framework de desenvolvimento contínuo criado para planejar, organizar, executar, documentar e acompanhar a evolução do seu principal produto: o próprio Victor.
 
-Seu principal objetivo é transformar o processo de aprendizado e desenvolvimento em um sistema organizado, documentado e orientado à prática, utilizando conceitos normalmente aplicados ao desenvolvimento de software para estruturar a evolução profissional.
+Seu principal objetivo é transformar o processo de desenvolvimento em um sistema organizado, documentado e orientado à prática, utilizando conceitos normalmente aplicados ao desenvolvimento de software para estruturar a evolução profissional.
 
 Diferentemente de um repositório tradicional, este projeto não se limita ao armazenamento de anotações ou materiais de estudo. Ele organiza todo o processo de desenvolvimento, desde a definição de objetivos até sua execução, documentação e evolução contínua.
 
@@ -15,7 +15,7 @@ Diferentemente de um repositório tradicional, este projeto não se limita ao ar
 - Planejar e organizar objetivos de desenvolvimento.
 - Estruturar o processo de evolução contínua por meio de projetos e práticas.
 - Transformar conhecimento em aplicação prática e resultados concretos.
-- Desenvolver conhecimentos, habilidades e competências em diferentes áreas.
+- Promover transformações concretas por meio do desenvolvimento de conhecimentos, habilidades e competências.
 - Produzir e organizar evidências da evolução do produto.
 - Documentar decisões, experiências e aprendizados relevantes.
 - Construir um portfólio consistente por meio de projetos, conteúdos e demais artefatos.

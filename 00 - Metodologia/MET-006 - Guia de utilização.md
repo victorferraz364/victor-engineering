@@ -1,8 +1,7 @@
 
 | Documento      | MET-006 - Guia de Utilização          |
 | -------------- | ------------------------------------- |
-| Tipo           | Framework de Desenvolvimento Contínuo |
-| Versão         | 1.0                                   |
+| Versão         | 2.0                                   |
 | Status         | Aprovado                              |
 | Última Revisão | 28/07/2026                            |
 ## Objetivo
@@ -30,6 +29,9 @@ De forma simplificada, a utilização do Projeto Victor segue o fluxo abaixo.
 ```text
 Necessidade
       │
+      ▼
+Qual transformação desejo produzir?
+	  │
       ▼
 Objetivo de Desenvolvimento
       │
@@ -71,12 +73,12 @@ A necessidade representa uma oportunidade de evolução do produto.
 
 Exemplos:
 
-- Atuar profissionalmente com Infraestrutura.
-- Aprender React.
+- Desenvolver competências em Infraestrutura suficientes para atuar em vagas de nível júnior.
+- Aprender os conceitos iniciais de React para desenvolver um SPA básico. 
 - Melhorar a comunicação.
-- Desenvolver força utilizando Calistenia.
-- Aprender inglês.
-
+- Atingir força suficiente para executar Full Planche.
+- Alcançar 60 kg mantendo baixo percentual de gordura.
+- Ler documentação técnica em inglês sem tradutor.
 ---
 
 # Etapa 2 — Criar um Objetivo de Desenvolvimento
@@ -250,7 +252,7 @@ Desejo atuar profissionalmente com Infraestrutura.
 
 ## Objetivo
 
-OBJ-001 — Desenvolver competências em Infraestrutura.
+OBJ-001 — Desenvolver competências em Infraestrutura para atuar em vagas de nível júnior.
 
 ↓
 

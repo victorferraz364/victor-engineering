@@ -1,10 +1,9 @@
 
-| Documento      | MET-005 - Glossário              |
-| -------------- | -------------------------------- |
-| Versão         | 1.0                              |
-| Status         | Aprovado                         |
-| Responsável    | Victor Angelo Ferraz de Oliveira |
-| Última Revisão | 28/07/2026                       |
+| Documento      | MET-005 - Glossário |
+| -------------- | ------------------- |
+| Versão         | 2.0                 |
+| Status         | Aprovado            |
+| Última Revisão | 28/07/2026          |
 
 
 # Glossário
@@ -25,11 +24,13 @@ Toda evolução do produto inicia a partir da identificação de uma necessidade
 
 Exemplos:
 
-- Atuar profissionalmente com Infraestrutura.
-- Desenvolver força utilizando Calistenia.
-- Aprender React.
-- Melhorar a comunicação.
-- Aprender um novo idioma.
+- Exemplos:
+
+- Desejo atuar profissionalmente na área de Tecnologia.
+- Preciso melhorar minha comunicação.
+- Quero recuperar meu condicionamento físico.
+- Tenho dificuldade para ler documentação técnica.
+- Desejo construir um portfólio mais sólido.
 
 ---
 
@@ -38,9 +39,7 @@ Exemplos:
 Principal elemento desenvolvido pelo Projeto Victor.
 
 No contexto desta metodologia, o produto é a própria pessoa. (eu, Victor).
-
-Sua evolução ocorre continuamente por meio do desenvolvimento de conhecimentos, habilidades, competências e demais objetivos de desenvolvimento.
-
+Essa evolução acontece por meio da conclusão sucessiva de Objetivos de Desenvolvimento.
 Todo projeto, laboratório, conteúdo ou artefato produzido existe para contribuir com essa evolução.
 
 ---
@@ -55,19 +54,27 @@ Framework não substitui projetos ou metodologias específicas. Seu papel é atu
 
 # Objetivo de Desenvolvimento
 
-Representa uma necessidade de evolução do produto.
+Representa uma transformação desejada no produto.
 
-Todo desenvolvimento no Projeto Victor inicia a partir de um Objetivo de Desenvolvimento.
+Todo desenvolvimento no Projeto Victor inicia com a identificação de uma necessidade, que é formalizada por meio de um Objetivo de Desenvolvimento.
 
-Cada objetivo descreve o que será desenvolvido, por que isso é importante, quais critérios indicarão sua evolução e quais artefatos contribuirão para sua realização.
+Cada objetivo descreve:
+
+- o estado atual do produto;
+- o estado desejado;
+- os critérios de sucesso;
+- as evidências esperadas;
+- os instrumentos que poderão contribuir para sua realização.
+
+Ao ser concluído, um Objetivo representa um incremento verificável na evolução do produto.
 
 Exemplos:
 
-- Infraestrutura
-- Calistenia
-- React
-- Comunicação
-- Inglês
+- Desenvolver competências em Infraestrutura para atuar em vagas de nível júnior.
+- Ler documentação técnica em inglês sem tradutor.
+- Executar Full Planche.
+- Alcançar 60 kg mantendo baixo percentual de gordura.
+- Desenvolver um SPA utilizando React.
 
 ---
 
