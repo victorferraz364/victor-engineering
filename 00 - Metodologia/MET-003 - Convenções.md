@@ -1,12 +1,10 @@
 
-
 | Documento      | MET-003 - Convenções                               |
 | -------------- | -------------------------------------------------- |
 | Versão         | 2.0                                                |
 | Status         | Aprovado                                           |
 | Ultima revisão | 28/07/2026                                         |
-| Data de Início | Data de criação do projeto.                        |
-| Última Revisão | Data da última revisão significativa do documento. |
+
 
 
 ## Objetivo

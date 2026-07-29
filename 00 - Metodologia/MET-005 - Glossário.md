@@ -1,10 +1,9 @@
-| Campo          | Valor                            |
-| -------------- | -------------------------------- |
+
 | Documento      | MET-005 - Glossário              |
+| -------------- | -------------------------------- |
 | Versão         | 1.0                              |
 | Status         | Aprovado                         |
 | Responsável    | Victor Angelo Ferraz de Oliveira |
-| Data de Início | 28/07/2026                       |
 | Última Revisão | 28/07/2026                       |
 
 

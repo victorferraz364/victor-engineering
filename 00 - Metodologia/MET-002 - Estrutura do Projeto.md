@@ -1,7 +1,6 @@
 
-| Campo          | Valor                          |
-| -------------- | ------------------------------ |
 | Documento      | MET-002 - Estrutura do Projeto |
+| -------------- | ------------------------------ |
 | Versão         | 2.0                            |
 | Status         | Aprovado                       |
 | Ultima revisão | 28/07/2026                     |
